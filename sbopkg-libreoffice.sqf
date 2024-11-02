@@ -1,0 +1,12 @@
+perl-Archive-Zip
+apache-ant
+libzmf
+libmspub
+liblangtag
+libfreehand
+libcdr
+zulu-openjdk17
+libreoffice-langpack
+libreoffice-helppack
+libreoffice
+LibreOffice
