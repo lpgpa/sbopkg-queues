@@ -7,3 +7,4 @@ gitignore
 .sbopkg-mysql-workbench.sqf.un~
 gitignore
 gitignore~
+.un~
