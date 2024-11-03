@@ -1,0 +1,3 @@
+bitlbee
+discord
+bitlbee-discord
