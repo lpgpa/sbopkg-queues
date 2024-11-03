@@ -5,11 +5,8 @@
 -liblangtag
 -libfreehand
 -libcdr
-libdaemon
-avahi
-zulu-openjdk8
 -zulu-openjdk17
-LibreOffice
+-libreoffice-langpack
+-libreoffice-helppack
 -libreoffice
-libreoffice-langpack
-libreoffice-helppack
+LibreOffice
