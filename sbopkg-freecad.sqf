@@ -7,3 +7,4 @@ pyside2
 xerces-c
 graphviz
 FreeCAD
+VTK
