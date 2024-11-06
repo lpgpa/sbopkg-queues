@@ -1,0 +1,11 @@
+abseil-cpp
+python3-flit_core
+python3-installer
+python3-wheel
+python3-pyproject-hooks
+python3-build
+protobuf3
+protobuf-c
+mosquitto
+libwebsockets
+kismet
