@@ -1,0 +1,9 @@
+-python3-pyproject-metadata
+-python3-meson-opt
+-python3-mesonpy
+virtiofsd
+libslirp
+device-tree-compiler
+qemu-guest-agent
+tqemu
+qemu
