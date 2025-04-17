@@ -1,0 +1,11 @@
+slackchlog
+slack-osquery
+slack-timedate
+slack-utils
+slackrepo
+slackrepo-hints
+slackroll
+slackupdr
+slack-wallpapers
+python2-slacklog
+libslack
