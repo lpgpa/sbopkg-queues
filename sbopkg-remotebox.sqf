@@ -1,0 +1,11 @@
+libwww-perl
+perl-MIME-Lite
+perl-IO-SessionData
+perl-Class-Inspector
+Crypt-SSLeay
+perl-SOAP-Lite
+perl-Task-Weaken
+perl-Glib-Object-Introspection
+perl-Cairo-GObject
+perl-Gtk3
+remotebox

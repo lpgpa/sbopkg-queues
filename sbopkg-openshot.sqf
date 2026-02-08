@@ -1,0 +1,3 @@
+libopenshot
+libopenshot-audio
+openshot
